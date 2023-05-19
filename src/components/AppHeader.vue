@@ -23,6 +23,7 @@ export default {};
 </template>
 
 <style lang="scss" scoped>
+@use "./assets/styles/general.scss" as *;
 header {
   width: 1100px;
   height: 150px;

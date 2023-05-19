@@ -18,5 +18,9 @@ export default {
 </template>
 
 <style lang="scss">
-@use "./assets/styles/general.scss" as *;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 </style>
